@@ -7,5 +7,5 @@ It took me a while to get these 2 parts to work on my project so I decided to sh
 * SFTP upload: https://github.com/pkg/sftp/issues/154
 
 You will need to get the following packages to make it work:
-* `go get github.com/pkg/sftp`
-* `go get golang.org/x/crypto/ssh`
+* `go get -u github.com/pkg/sftp`
+* `go get -u golang.org/x/crypto/ssh`
